@@ -1,6 +1,6 @@
 # 🏥 UMC Utrecht Digital Health
 
-This is the GitHub organisation page for the AI for Health team of Digital Health at the UMC Utrecht. Our aim is to implement valuable AI solutions in clinical practice at the UMC Utrecht Hospital.
+This is the GitHub organisation page for the AI for Health team of Digital Health at the UMC Utrecht. Our aim is to implement valuable AI solutions in clinical practice at the UMC Utrecht.
 This page is used for all our repos, both public and private and contains tools like our cookiecutter template and (internal) project repositories.
 
 ## 🌍 Open-source repos
@@ -9,6 +9,7 @@ We welcome contributions! Feel free to open an issue or submit a pull request if
 
 - [No-Show prediction model](https://github.com/UMCU-Digital-Health/No_Show)
 - [Our Python Project template](https://github.com/UMCU-Digital-Health/Digital_Health_Template)
+- Discharge documentation generator - *Coming soon*
 
 ## 👩‍💻 Useful links
 
