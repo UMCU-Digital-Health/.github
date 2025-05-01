@@ -9,7 +9,7 @@ We welcome contributions! Feel free to open an issue or submit a pull request if
 
 - [No-Show prediction model](https://github.com/UMCU-Digital-Health/No_Show)
 - [Our Python Project template](https://github.com/UMCU-Digital-Health/Digital_Health_Template)
-- Discharge documentation generator - *Coming soon*
+- [Discharge documentation generator](https://github.com/UMCU-Digital-Health/discharge-documentation-generator)
 
 ## 👩‍💻 Useful links
 
