@@ -13,8 +13,8 @@ We welcome contributions! Feel free to open an issue or submit a pull request if
 
 ## 👩‍💻 Useful links
 
-- [Implemented AI models at UMC Utrecht](https://research.umcutrecht.nl/ai-applications-in-use/)
-- [Internal page](https://umcutrecht.sharepoint.com/sites/DMN_Onderzoek/SitePages/Data-Science-Team.aspx)
+- [Implemented AI models at UMC Utrecht](https://3ai.umcutrecht.nl/pillars/ai-applications-in-use/)
+- [AI Team website](https://3ai.umcutrecht.nl/pillars/implementation/ai-for-health/)
 - [UMCU Homepage](https://www.umcutrecht.nl/nl/)
 - [Working at Digital Health](https://werkenbijumcutrecht.nl/onze-verhalen/werken-als-datascientist)
 - [General UMCU GitHub](https://github.com/umcu)
